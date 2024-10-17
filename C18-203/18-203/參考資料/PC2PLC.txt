@@ -1,0 +1,12 @@
+﻿EnableOP
+EnablePartsNotMatch
+EnablePartsNotEnough
+EnablePartsIDError
+EnablePartsIDOver
+EnableWorkNG
+EnableWorkParameterNG
+EnableTCSParameterNG
+EnableWorkNGOver3Times
+EnableWorkNGOver10Times
+FlagMainIDChanged
+FlagPLCRunFinish

@@ -1,0 +1,9 @@
+﻿MachineStatus
+WorkID
+FlagWorkTypeChanged
+CycleTime
+OverrallJudgement
+TotalCount
+OkCount
+NgCount
+FlagPLCRunFinish
